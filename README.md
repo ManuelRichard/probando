@@ -7,3 +7,7 @@ segundo cambio
 
 
 modificación desde la carptea "otra persona" en OTRAPERSONA-BRANCH
+
+
+modificacion desde la carpeta "otra persona" en persona2
+
